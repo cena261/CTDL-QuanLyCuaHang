@@ -1,0 +1,21 @@
+pesi#10
+coca cola#20
+pesi#10
+coca cola#20
+sprite#15
+fanta#18
+aquafina#12
+red bull#25
+lavie#22
+sting#30
+7up#17
+dr pepper#14
+mirinda#19
+nestea#11
+revine#13
+th true water#24
+icetea#16
+cheviot#21
+twister#28
+samurai#26
+Bo huc#15

@@ -1,0 +1,15 @@
+*****************************
+Ngay      Ma Khach Hang             Ho Ten                    Ma Hoa Don                Tong Tien
+15/4/2021    B3                        Nguyen B                  ZX1031                    123000
+*****************************
+Ngay      Ma Khach Hang             Ho Ten                    Ma Hoa Don                Tong Tien
+24/9/2000    D7                        Nguyen Van C              AK7651                    90000
+*****************************
+Ngay      Ma Khach Hang             Ho Ten                    Ma Hoa Don                Tong Tien
+24/8/2000    F5                        Nguyen D                  BS1994                    60000
+*****************************
+Ngay      Ma Khach Hang             Ho Ten                    Ma Hoa Don                Tong Tien
+24/9/2000    A4                        Nguyen Van A              HS5547                    30000
+*****************************
+Ngay      Ma Khach Hang             Ho Ten                    Ma Hoa Don                Tong Tien
+25/1/2000    B3                        Nguyen B                  AB1231                    500000
